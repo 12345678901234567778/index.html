@@ -1,0 +1,17 @@
+
+h1 {
+  background:#F5DEB3;
+}
+
+.otstup{
+  padding-top:20px
+}
+table{
+  align: right
+}
+.scale {
+    transition: 1s; /* Время эффекта */
+   }
+   .scale:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
